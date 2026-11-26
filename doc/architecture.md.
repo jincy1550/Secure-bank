@@ -1,0 +1,28 @@
+# SecureBank Architecture
+
+## Project
+Digital Direct Deposit
+
+## Cloud Provider
+Microsoft Azure
+
+## Services
+1. Azure App Service
+2. Azure SQL Database
+3. Azure Storage
+4. Azure Service Bus
+5. Azure Monitor
+6. Log Analytics
+
+## Customer Workflow
+1. Customer opens SecureBank.
+2. Customer selects a bank account.
+3. Customer searches for an employer.
+4. Customer submits a direct deposit request.
+5. Application stores the demo request.
+6. Customer checks request status.
+
+## Purpose
+Demonstrate Azure cloud infrastructure,
+application hosting, database management,
+monitoring and troubleshooting.
